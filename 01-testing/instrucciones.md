@@ -19,7 +19,7 @@ El programa debe combinar el top 10 de palabras para cada archivo en uno solo e 
 - La cadena debe convertirse a minúsculas antes de ser procesada, por lo que "HOLA" y "hola" serán la misma palabra. 
 - La función deberá devolver un arreglo con un máximo de 10 palabras únicas encontradas y el número de ocurrencias.
 - Si hay empate en el conteo, ordene por palabra de forma descendente (a->z).
-- De preferencia, utiliza **ES6** cuando sea posible.
+- Refactoriza el código para facilitar las pruebas y utiliza **ES6**.
 
 
 # Urls a descargar
